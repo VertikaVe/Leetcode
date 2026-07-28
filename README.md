@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VertikaVe/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VertikaVe/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/VertikaVe/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/VertikaVe/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/VertikaVe/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/VertikaVe/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -21,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VertikaVe/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/VertikaVe/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/VertikaVe/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/VertikaVe/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Math
@@ -40,5 +42,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/VertikaVe/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/VertikaVe/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->

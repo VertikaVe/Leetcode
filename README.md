@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VertikaVe/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/VertikaVe/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/VertikaVe/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/VertikaVe/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
@@ -42,6 +43,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/VertikaVe/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/VertikaVe/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/VertikaVe/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
@@ -88,6 +90,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/VertikaVe/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/VertikaVe/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VertikaVe/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
